@@ -1,16 +1,14 @@
-# Functions 🛠️
-
 Write a function that accepts a string as an argument. return back same string but deletes all the vowels from it.
 
 Vowels: `A,E,I,O,U`
 
-example:
+Example:
 
 ```dart
 print(deleteVowels("flutter"));
 ```
 
-output:
+Output:
 
 ```
 flttr
